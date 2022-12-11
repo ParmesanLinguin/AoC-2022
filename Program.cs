@@ -7,3 +7,5 @@ Console.WriteLine($"Day 5:\n  Part 1: {Day5.Part1()}\n  Part 2: {Day5.Part2()}\n
 Console.WriteLine($"Day 6:\n  Part 1: {Day6.Part1()}\n  Part 2: {Day6.Part2()}\n");
 Console.WriteLine($"Day 7:\n  Part 1: {Day7.Part1()}\n  Part 2: {Day7.Part2()}\n");
 Console.WriteLine($"Day 8:\n  Part 1: {Day8.Part1()}\n  Part 2: {Day8.Part2()}\n");
+Console.WriteLine($"Day 9:\n  Part 1: {Day9.Part1()}\n  Part 2: {Day9_Part2.Part2()}\n");
+Console.WriteLine($"Day 10:\n  Part 1: {Day10.Part1()}\n  Part 2: \n{Day10.Part2()}\n");
